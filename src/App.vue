@@ -11,7 +11,6 @@
         </button>
       </a>
     </header>
-    <div style="width: 100%; height: 25px;"></div>
     <div style="text-align: center; padding: 20px; padding-buttom: 0px">
       <h1>Welcome to Software Build-A-Thon</h1>
       <h3 class="title-sub-heading">CSSAs Flagship Fall 2022 Event</h3>
@@ -34,7 +33,8 @@
         <li>2nd Place Team: <b>$350.00</b></li>
         <li>3rd Place Team: <b>$150.00</b></li>
       </ul>
-      <p>* The CSSA is seeking conference approval from SGA. Currently 
+      <p>
+        * The CSSA is seeking conference approval from SGA. Currently 
         our conference budget has OSI approval, 
         final approval will be given on or shortly after Nov 15th. If given 
         final approval from SGA, 
@@ -136,9 +136,10 @@ header {
   align-items: center;
   width: 100vw;
   height: 75px;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(50, 50, 50);
   top: 0;
   position: fixed;
+  z-index: 2;
 }
 
 button {
@@ -165,6 +166,9 @@ div.info {
 
 h2.info-heading {
   margin: 0%;
+  position: sticky;
+  top: 75px;
+  background-color: rgb(26, 26, 26);
 }
 
 p.faq-answers {
