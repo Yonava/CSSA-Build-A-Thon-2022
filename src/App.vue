@@ -68,7 +68,7 @@
       <p class="faq-answers">
         Not necessarily, however, you should find a teammate who does know how to code.
         Software development is mulit-facited. If you are a graphic designer
-        who has knowledge in Figma or Adobe product but are scared off by
+        who has knowledge in Figma or Adobe products but are scared off by
         the prospect of writing code, find someone who programs and build something
         awesome together!
       </p>
@@ -79,7 +79,7 @@
         app or website. Back-end? make a console app or API. There will be
         infinite ways to engage our theme. We are judging your approach to
         building software, not the flashiness. We understand that building a
-        C++ app the renders ASCII graphics from scratch will be much harder to pull off than
+        C++ app that renders ASCII graphics from scratch will be much harder to pull off than
         using tools built into advanced game engines.
       </p>
       <p><b>Can I Still Sign-Up If I Don't Have a Team?</b></p>
