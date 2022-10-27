@@ -12,11 +12,12 @@
       </a>
     </header>
     <div style="width: 100%; height: 25px;"></div>
-    <div style="text-align: center">
-      <h1>Welcome to Software Build-A-Thon: CSSAs Flagship Fall 2022 Event</h1>
+    <div style="text-align: center; padding: 20px; padding-buttom: 0px">
+      <h1>Welcome to Software Build-A-Thon</h1>
+      <h3 class="title-sub-heading">CSSAs Flagship Fall 2022 Event</h3>
     </div>
     <div class="center">
-      <div style="width: 90%; height: 1px; background-color: white; margin-top: 15px"></div>
+      <div style="width: 90%; height: 1px; background-color: white;"></div>
     </div>
     <div class="info">
       <h2 class="info-heading">Why Participate?</h2>
@@ -28,10 +29,23 @@
       </ul>
       <h2 class="info-heading">The Prize Pool</h2>
       <ul>
-        <li>1st Place Team: <b>$500.00</b></li>
+        <li>1st Place Team: <b>$500.00*</b></li>
         <li>2nd Place Team: <b>$350.00</b></li>
         <li>3rd Place Team: <b>$150.00</b></li>
       </ul>
+      <p>* The CSSA is seeking conference approval from SGA. Currently 
+        our conference budget has OSI approval, 
+        final approval will be given on or shortly after Nov 15th. If given 
+        final approval from SGA, 
+        the winning team will receive an offer to be sent, 
+        with full expenses paid, to one of texas largest tech conferences
+        <a
+          href="https://that.us/events/tx/2023/" 
+          target="_blank" 
+          class="conf-link"
+        >THAT Con</a>
+        in exchange for the cash prize.
+      </p>
     </div>
   </div>
 </template>
@@ -44,6 +58,13 @@ export default {
 </script>
 
 <style>
+.title-sub-heading {
+  color: white;
+  margin: 0%;
+  margin-top: 5px;
+  font-weight: normal;
+}
+
 body {
   background-color: rgb(26, 26, 26);
   padding: 0%;
@@ -109,5 +130,9 @@ h2.info-heading {
 a.sign-up {
   margin-left: 15px;
   text-decoration: none;
+}
+
+a.conf-link {
+  color: white;
 }
 </style>
