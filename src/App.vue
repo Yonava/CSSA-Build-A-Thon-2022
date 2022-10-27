@@ -52,9 +52,10 @@
         The CSSA Software Build-A-Thon is a software building competition.
         Teams of 2-3 will compete over Friday (18th) night, Saturday (19th), and Sunday (20th)
         to build a piece of software based on a general theme that will be announced at
-        the opening ceremony on the 18th @ 6:30p SETA 118A/B.
+        the opening ceremony on the 18th @ 6:30p SETA 118A/B. On Monday (21st) is our closing
+        ceremony. Teams will present what they built and the winners will be announced!
       </p>
-      <h2 class="info-heading">That's All Good, But How Does My Team Win?</h2>
+      <h2 class="info-heading">How Does My Team Win?</h2>
       <p>
         Our judges will be evaluating every teams project
         to determine the winner based on a set of criteria including
