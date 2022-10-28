@@ -13,7 +13,7 @@
     </header>
     <div style="text-align: center; padding: 20px; padding-buttom: 0px">
       <h1>Welcome to Software Build-A-Thon</h1>
-      <h3 class="title-sub-heading">CSSAs Flagship Fall 2022 Event</h3>
+      <h3 class="title-sub-heading">CSSA's Flagship Fall 2022 Event</h3>
     </div>
     <div class="center">
       <div style="width: 90%; height: 1px; background-color: white;"></div>
@@ -23,7 +23,7 @@
       <ul>
         <li>Create a project for your resume</li>
         <li>Get feedback from judges with industry experience</li>
-        <li>Receive a cssa build-a-thon t-shirt</li>
+        <li>Receive a CSSA build-a-thon t-shirt</li>
         <li>Get a $10 amazon gift card for completed software, even if you don't win</li>
         <li>Enjoy dinner provided by CSSA and SETA at the opening and closing ceremony</li>
       </ul>
@@ -39,13 +39,13 @@
         final approval will be given on or shortly after Nov 15th. If given 
         final approval from SGA, 
         the winning team will receive an offer to be sent, 
-        with full expenses paid, to one of texas largest tech conferences
+        with full expenses paid, to one of Texas's largest tech conferences -
         <a
           href="https://that.us/events/tx/2023/" 
           target="_blank" 
           class="conf-link"
         >THAT Con</a>
-        in exchange for the cash prize.
+        - in exchange for the cash prize.
       </p>
       <h2 class="info-heading">What Am I Signing Up For?</h2>
       <p>
@@ -53,13 +53,13 @@
         Teams of 2-3 will compete over Friday (18th) night, Saturday (19th), and Sunday (20th)
         to build a piece of software based on a general theme that will be announced at
         the opening ceremony on the 18th @ 6:30p SETA 118A/B. On Monday (21st) is our closing
-        ceremony. Teams will present what they built and the winners will be announced!
+        ceremony, which will take place in SETA 118A/B at 6:30p as well. Teams are going to present what they built and the winners will be announced!
       </p>
       <h2 class="info-heading">How Does My Team Win?</h2>
       <p>
         Our judges will be evaluating every teams project
         to determine the winner based on a set of criteria including
-        how the code is organized (software craftsmanship), how creative is your teams
+        how the code is organized (software craftsmanship), how creative is your team's
         idea and the approach your team uses to turn your idea into a reality.
         Factors like design pattern implementation may be observed as well.
       </p>
@@ -67,7 +67,7 @@
       <p><b>Do I Need to Know How to Code?</b></p>
       <p class="faq-answers">
         Not necessarily, however, you should find a teammate who does know how to code.
-        Software development is mulit-facited. If you are a graphic designer
+        Software development is multi-faceted. If you are a graphic designer
         who has knowledge in Figma or Adobe products but are scared off by
         the prospect of writing code, find someone who programs and build something
         awesome together!
@@ -82,7 +82,7 @@
         C++ app that renders ASCII graphics from scratch will be much harder to pull off than
         using tools built into advanced game engines.
       </p>
-      <p><b>Can I Still Sign-Up If I Don't Have a Team?</b></p>
+      <p><b>Can I Sign-Up Without A Team?</b></p>
       <p class="faq-answers">
         Sure. Just write "TBD" as your team name and we will match you
         with others at the opening ceremony!
