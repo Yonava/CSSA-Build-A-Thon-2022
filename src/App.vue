@@ -9,6 +9,9 @@
         <button>
           Team Sign-Up Form
         </button>
+        <p style="color: white">
+        Hi Dr. Matthews
+        </p>
       </a>
     </header>
     <div style="text-align: center; padding: 20px; padding-buttom: 0px">
