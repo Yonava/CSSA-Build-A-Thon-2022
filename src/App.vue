@@ -10,7 +10,7 @@
           Sign-Up Form
         </button>
       </a>
-      <p style="color: white; margin-left: 10px">Sign-Ups Close Nov 13th</p>
+      <!-- <p style="color: white; margin-left: 10px">Sign-Ups Close Nov 13th</p> -->
     </header>
     <div style="text-align: center; padding: 20px; padding-buttom: 0px">
       <h1>Welcome to Software Build-A-Thon</h1>
