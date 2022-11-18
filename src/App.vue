@@ -30,23 +30,20 @@
       </ul>
       <h2 class="info-heading">The Prize Pool</h2>
       <ul>
-        <li>1st Place Team: <b>$500.00*</b></li>
+        <li>1st Place Team: <b>Trip to Texas or $500.00*</b></li>
         <li>2nd Place Team: <b>$350.00</b></li>
         <li>3rd Place Team: <b>$150.00</b></li>
       </ul>
       <p>
-        * The CSSA is seeking conference approval from SGA. Currently 
-        our conference budget has OSI approval, 
-        final approval will be given on or shortly after Nov 15th. If given 
-        final approval from SGA, 
-        the winning team will receive an offer to be sent, 
-        with full expenses paid, to one of Texas's largest tech conferences -
+        * The CSSA offers to fly the winning team of the Software Build-A-Thon out to
+        Austin, Texas for
         <a
-          href="https://that.us/events/tx/2023/" 
+          href="https://that.us/events/tx/2023/schedule" 
           target="_blank" 
           class="conf-link"
         >THAT Con</a>
-        - in exchange for the cash prize.
+        - all expenses paid. If winning team decides to take the $500, the second place
+        winners will receive an opportunity to accept the conference trip.
       </p>
       <h2 class="info-heading">What Am I Signing Up For?</h2>
       <p>
