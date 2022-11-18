@@ -24,7 +24,7 @@
       <ul>
         <li>Create a project for your resume</li>
         <li>Get feedback from judges with industry experience</li>
-        <li>Receive a CSSA build-a-thon t-shirt</li>
+        <li>Receive a CSSA t-shirt</li>
         <li>Get a $10 Amazon gift card for completed software, even if you don't win</li>
         <li>Enjoy dinner provided by CSSA and SETA at the opening and closing ceremony</li>
       </ul>
