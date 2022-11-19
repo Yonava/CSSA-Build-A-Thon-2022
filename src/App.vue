@@ -23,7 +23,11 @@
     <div class="center">
       <div style="width: 90%; height: 1px; background-color: white;"></div>
     </div>
-    <div class="info">
+    <div class="info">   
+      <h2 class="info-heading">Closing Ceremony Info</h2> 
+      <p>
+        Monday, SETA 118A/B at 6:30p. Teams present, winners announced. Everyone welcome so bring friends! food and drink provided.
+      </p>
       <h2 class="info-heading">Why Participate?</h2>
       <ul>
         <li>Create a project for your resume</li>
