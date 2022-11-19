@@ -1,7 +1,11 @@
 <template>
   <div id="app">
     <header>
-      <a 
+      <div style="margin: 6px 0px 0px 10px">
+        <p class="header-subtitle">Competition Now In Progess</p>
+        <h1 class="header-title">Theme: Destruction</h1>
+      </div>
+      <!-- <a 
         class="sign-up"
         href="https://forms.gle/yP9vPjvE54VciRQe8"
         target="_blank"
@@ -9,7 +13,7 @@
         <button>
           Sign-Up Form
         </button>
-      </a>
+      </a> -->
       <!-- <p style="color: white; margin-left: 10px">Sign-Ups Close Nov 13th</p> -->
     </header>
     <div style="text-align: center; padding: 20px; padding-buttom: 0px">
@@ -129,16 +133,28 @@ h1 {
   margin: 0%;
 }
 
+p.header-subtitle {
+  font-weight: 500;
+  color: white;
+  margin: 0%;
+}
+
+h1.header-title {
+  font-weight: 900;  
+  transform: translateY(-3px);
+}
+
 header {
   display: flex;
   justify-content: left;
-  align-items: center;
+  text-align: left;
   width: 100vw;
-  height: 75px;
-  background-color: rgba(50, 50, 50);
+  height: 70px;
+  background-color: rgb(27, 38, 91);
   top: 0;
   position: fixed;
   z-index: 2;
+  flex-direction: column;
 }
 
 button {
@@ -166,7 +182,7 @@ div.info {
 h2.info-heading {
   margin: 0%;
   position: sticky;
-  top: 75px;
+  top: 70px;
   background-color: rgb(26, 26, 26);
 }
 
