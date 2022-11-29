@@ -2,8 +2,8 @@
   <div id="app">
     <header>
       <div style="margin: 6px 0px 0px 10px">
-        <p class="header-subtitle">Competition Now In Progess</p>
-        <h1 class="header-title">Theme: Destruction</h1>
+        <p class="header-subtitle">Competition Over</p>
+        <h1 class="header-title">Thanks To The Participants!</h1>
       </div>
       <!-- <a 
         class="sign-up"
@@ -154,7 +154,7 @@ header {
   text-align: left;
   width: 100vw;
   height: 70px;
-  background-color: rgb(27, 38, 91);
+  background-color: rgb(49, 122, 50);
   top: 0;
   position: fixed;
   z-index: 2;
