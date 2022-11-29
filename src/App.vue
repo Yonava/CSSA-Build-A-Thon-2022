@@ -3,7 +3,7 @@
     <header>
       <div style="margin: 6px 0px 0px 10px">
         <p class="header-subtitle">Competition Over</p>
-        <h1 class="header-title">Thanks To The Participants!</h1>
+        <h1 class="header-title">Thanks For Playing!</h1>
       </div>
       <!-- <a 
         class="sign-up"
